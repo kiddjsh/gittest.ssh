@@ -5,7 +5,7 @@ you have entered the test branch, welcome
 #
 please use for all testing purposes before push to development
 #
-#synbranch
+# synbranch
 #
 git branch test
 #
@@ -17,6 +17,6 @@ git checkout test
 #
 #
 #
-#testing
+# testing
 #
 thanks for testing me
