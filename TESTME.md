@@ -17,6 +17,6 @@ git checkout test
 #
 #
 #
-# testing
+# testers
 #
 thanks for testing me
